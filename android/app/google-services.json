@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "522197637568",
+    "project_id": "bak-bak-c12b9",
+    "storage_bucket": "bak-bak-c12b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522197637568:android:f8a066647b9d1ceddcd025",
+        "android_client_info": {
+          "package_name": "com.example.bak_bak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDy9deK3RQah-ZhKo9XoUck08qDRfAWuq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
